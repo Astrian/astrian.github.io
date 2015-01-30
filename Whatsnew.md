@@ -11,7 +11,7 @@ title: 博客更新日志
 
 - 新增分页功能
 
-该版本将会导出为独立的 Jekyll 模板。
+该版本已经导出为独立的 Jekyll 模板，叫做 [Rainbow](https://github.com/Astrian/astrian.github.io/tree/Rainbow)。
 
 ## v1.0.0.4（2015年01月30日）
 
