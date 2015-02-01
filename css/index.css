@@ -90,10 +90,10 @@ img{
 }
 
 .comment-and-share{
-    border-top-color: rgba(0, 0, 0, 0.36);
+    border-top-color: rgba(0, 0, 0, 0.20);
     border-top-width: 1px;
     border-top-style: solid;
-    padding-top: 20px;
+    padding-top: 30px;
 }
 
 /* latin */
