@@ -7,4 +7,4 @@ layout: article
 
 以下的照片都是在现场通过 Sony DSC-QX10 拍摄。
 
-<iframe src="http://drp.io/e/Ah" width="100%" height="600px" scrolling="no" frameborder="0" ></iframe>'
+<iframe src="http://drp.io/e/Ah" width="100%" scrolling="no" frameborder="0" ></iframe>'
