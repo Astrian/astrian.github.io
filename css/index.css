@@ -16,7 +16,7 @@ p{
 
 .maincontent{
     padding-top: 15px;
-    padding-bottom: 20px;
+    padding-bottom: 30px;
 }
 
 .titlehead{
@@ -93,7 +93,7 @@ img{
     border-top-color: rgba(0, 0, 0, 0.36);
     border-top-width: 1px;
     border-top-style: solid;
-    padding-top: 15px;
+    padding-top: 20px;
 }
 
 /* latin */
