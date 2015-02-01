@@ -78,6 +78,7 @@ img{
 
 .content{
     padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 #info{
@@ -93,7 +94,7 @@ img{
     border-top-color: rgba(0, 0, 0, 0.20);
     border-top-width: 1px;
     border-top-style: solid;
-    padding-top: 30px;
+    padding-top: 10px;
 }
 
 /* latin */
