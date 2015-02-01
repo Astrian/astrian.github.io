@@ -91,9 +91,9 @@ img{
 
 .comment-and-share{
     border-top-color: rgba(0, 0, 0, 0.36);
-    border-top-width: 2px;
+    border-top-width: 1px;
     border-top-style: solid;
-    padding-top: 5px;
+    padding-top: 8px;
 }
 
 /* latin */
