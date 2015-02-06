@@ -5,7 +5,7 @@ layout: default
 
 # 关于我
 
-<img src="{{ site.url }}/Pics/avatar/Overwatch.jpg" height="300" width="300" />
+![我目前的头像]({{ site.url }}/Pics/avatar/Overwatch.jpg)
 
 我叫 Astrian，全名 Astrian Zheng，男性，90后，ACG 爱好者。
 
