@@ -3,18 +3,16 @@ title: 关于
 layout: default
 ---
 
-# 关于
+# 关于我
 
-## 关于「写在边上」
+<img src="{{ site.url }}/Pic/avatar/Overwatch.jpg" height="300" width="300" />
 
-「写在边上」是 Astrian 的使用 Markdown 撰写的一个博客。它托管在 GitHub 上，使用 Jekyll 驱动。你可以通过[这个链接](https://github.com/astrian/astrian.github.io)上看到这个博客的源代码。
+我叫 Astrian，全名 Astrian Zheng，男性，90后，ACG 爱好者。
 
-## 关于 Rainbow
+我经常自称自己是「净干文科生事情的理科生，悲观的乐观主义者，希望成为路人的铺路石」。
 
-Rainbow 是由 Astrian 设计的一个 Jekyll 的模板。模板将可以直接在 GitHub 上 Fork 并直接使用。请等待模板开源的最新消息。
+我出生于广东佛山，目前正在云南昆明读大学。
 
-目前 Rainbow 最新版本是 v1.0.0.3。[这个链接]({{ site.url }}/Whatsnew)显示了 Rainbow 的版本更新日志。
+我比较喜欢折腾，挖过的坑比较多，不过最近已经尽力正在努力填满。希望能够填的满。
 
-## 关于 Astrian
-
-我想[这个链接](http://astrianfm.com)已经解释得比较清楚了。
+「写在边上」也是我的挖坑作品。它是我第一个纯 Markdown 博客。我希望还是能够经常有些感悟来慢慢地写在这里，也希望它无论是现在还是五十年后，都有它独特的价值。
