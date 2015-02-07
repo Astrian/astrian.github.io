@@ -11,7 +11,7 @@ layout: default
     
     <div class="comment-and-share">
     <div class="share-and-jianshu">
-        <div class="bdsharebuttonbox" data-tag="share_1">
+        <div class="bdsharebuttonbox col-xs-6" data-tag="share_1">
             <a class="bds_twi" data-cmd="twi"></a>
             <a class="bds_tsina" data-cmd="tsina"></a>
             <a class="bds_tqq" data-cmd="tqq"></a>
@@ -40,8 +40,7 @@ window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.
 	}
 </script>
         </div>
-        {% if page.jianshu %}<div><p><strong><a href="{{ page.jianshu }}">到简书看本文</a></strong></p></div>{% endif %}
-        
+        {% if page.jianshu %}<div class="col-xs-6 text-right"><strong><a href="{{ page.jianshu }}">去简书看</a></strong></div>{% endif %}
     </div>
      <div id="disqus_thread"></div>
     <script type="text/javascript">
