@@ -12,10 +12,10 @@ layout: default
     <div class="comment-and-share">
     <div class="share-and-jianshu">
         <div class="bdsharebuttonbox" data-tag="share_1">
-            <a class="twitter-share-button" href="https://twitter.com/share">Tweet</a>
+             <a class="twitter-share-button" href="https://twitter.com/share">Tweet</a>
             <a class="bds_tsina" data-cmd="tsina"></a>
             <a class="bds_tqq" data-cmd="tqq"></a>
-            <a class="bds_more" data-cmd="more">更多</a>
+            <a class="bds_more" data-cmd="more">更多</a> 
             <a class="bds_count" data-cmd="count"></a>
 <script>
     with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?cdnversion='+~(-new Date()/36e5)];
@@ -39,7 +39,7 @@ window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.
 	}
 </script>
         </div>
-        {% if page.jianshu %}<p><strong><a href="{{ page.jianshu }}">到简书看本文</a></strong></p>{% endif %}
+        {% if page.jianshu %}<div><p><strong><a href="{{ page.jianshu }}">到简书看本文</a></strong></p></div>{% endif %}
         
     </div>
      <div id="disqus_thread"></div>
