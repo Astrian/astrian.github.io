@@ -11,10 +11,13 @@ layout: default
     
     <div class="comment-and-share">
     <div class="share-and-jianshu">
-        <strong><a class="twitter-share-button" href="https://twitter.com/share">分享到 Twitter</a>
+        <div class="share">
+        <a class="twitter-share-button" href="https://twitter.com/share">Tweet</a>
 <script>
 window.twttr=(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],t=window.twttr||{};if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);t._e=[];t.ready=function(f){t._e.push(f);};return t;}(document,"script","twitter-wjs"));
-</script>{% if page.jianshu %} &middot; <a href="{{ page.jianshu }}">查看简书版本</a>{% endif %}</strong>
+</script>
+        </div>
+        <div><strong>{% if page.jianshu %}<a href="{{ page.jianshu }}">到简书看本文</a>{% endif %}</strong></div>
         
     </div>
      <div id="disqus_thread"></div>
