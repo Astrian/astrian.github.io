@@ -15,9 +15,9 @@
 				{% endif %}        
 				{% if post.excerpt %}
 					<description>{{ post.excerpt | xml_escape }}</description>
-                    <content:encoded>{{ post.content | xml_escape }}<p>（正在检查 RSS 出现了什么问题）</p></content:encoded>
+                    <content:encoded>{{ post.content | xml_escape }}</content:encoded>
 				{% else %}
-                    <content:encoded>{{ post.content | xml_escape }}<p>（正在检查 RSS 出现了什么问题……）</p></content:encoded>
+                    <content:encoded>{{ post.content | xml_escape }}</content:encoded>
 				{% endif %}
 				<pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
 				<link>{{ site.url }}{{ post.url }}</link>
