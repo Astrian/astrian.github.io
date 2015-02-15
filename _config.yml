@@ -21,3 +21,4 @@ author:
 copyright: "版权所有 © 2015 Astrian &middot; 未经书面许可，不可复制本博客任何内容。"
 
 paginate: 5
+paginate_path: "blog/page:num"
