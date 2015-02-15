@@ -1,6 +1,7 @@
 ---
 layout: article
 title: 再观《刺杀金正恩》
+jianshu: http://www.jianshu.com/p/4ed9a51287f6
 ---
 
 之所以叫做「再观」，是因为[刺杀金正恩](http://www.imdb.com/title/tt2788710/?ref_=fn_al_tt_1)（*The Interview*）这部片子我已经看过，最近又重新再看一遍而已。第一遍看是在外挂一个 Google Translate 出炉的一个字幕的前提下看的。不知道是否是烂字幕的缘故，导致我对这个电影的印象比较差，所以第二遍看的时候，我希望能够看出一些不一样的东西。可是我觉得我错了。
