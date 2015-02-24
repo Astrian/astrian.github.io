@@ -3,9 +3,6 @@ auto: true
 markdown: redcarpet
 highlighter: pygments
 
-# Permalinks
-permalink: pretty
-
 # Setup
 title: 写在边上
 tagline: 'Never left without saying goodbye.'
