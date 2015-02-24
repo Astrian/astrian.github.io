@@ -1,8 +1,3 @@
-# Dependencies
-auto: true
-markdown: redcarpet
-highlighter: pygments
-
 # Setup
 title: 写在边上
 tagline: 'Never left without saying goodbye.'
